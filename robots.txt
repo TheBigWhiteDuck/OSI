@@ -1,1 +1,4 @@
-https://github.com/TheBigWhiteDuck/OSI/sitemap.xml
+Sitemap: https://github.com/TheBigWhiteDuck/OSI/sitemap.xml
+User-agent: *
+Disallow: style.css
+Allow: ./

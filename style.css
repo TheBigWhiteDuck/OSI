@@ -102,3 +102,10 @@ footer {
 h2{
     text-align: center;
 }
+
+@media (max-width: 600px) {
+    .game-list {
+        flex-direction: column;
+        align-content: center;
+    }
+  }
